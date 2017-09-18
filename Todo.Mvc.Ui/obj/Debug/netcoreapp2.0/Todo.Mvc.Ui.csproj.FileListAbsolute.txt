@@ -1,0 +1,11 @@
+E:\Repos\TodoSolution\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.deps.json
+E:\Repos\TodoSolution\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.runtimeconfig.json
+E:\Repos\TodoSolution\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.runtimeconfig.dev.json
+E:\Repos\TodoSolution\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.dll
+E:\Repos\TodoSolution\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.pdb
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.csproj.CoreCompileInputs.cache
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.AssemblyInfoInputs.cache
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.AssemblyInfo.cs
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.dll
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.pdb
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.csprojResolveAssemblyReference.cache

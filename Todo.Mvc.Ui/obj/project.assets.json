@@ -3116,7 +3116,7 @@
           "lib/netcoreapp2.0/SmartIT.DebugHelper.dll": {}
         }
       },
-      "SmartIT.Employee.MockDB/1.0.4": {
+      "SmartIT.Employee.MockDB/1.0.5": {
         "type": "package",
         "dependencies": {
           "System.ComponentModel.Annotations": "4.4.0"
@@ -8302,13 +8302,13 @@
         "smartit.debugtacehelper.nuspec"
       ]
     },
-    "SmartIT.Employee.MockDB/1.0.4": {
-      "sha512": "2yAECS+QPcnaWm25Lu08hzUDnKKY97cpmoBCf4yjXxSqIkiht4wm2rvhCNyub4hCTy9E6kf4mM8RvxY8wbplhg==",
+    "SmartIT.Employee.MockDB/1.0.5": {
+      "sha512": "E67OCxJucIbX+02hJDF3CMOlqumL6cjXBoUBs6YL7/f051z/HOawiQYIXQIOfmlGC3LvuRB4u7wjOSEDRJX42A==",
       "type": "package",
-      "path": "smartit.employee.mockdb/1.0.4",
+      "path": "smartit.employee.mockdb/1.0.5",
       "files": [
         "lib/netstandard2.0/SmartIT.Employee.MockDB.dll",
-        "smartit.employee.mockdb.1.0.4.nupkg.sha512",
+        "smartit.employee.mockdb.1.0.5.nupkg.sha512",
         "smartit.employee.mockdb.nuspec"
       ]
     },
@@ -13140,7 +13140,7 @@
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0",
       "SmartIT.DebugTaceHelper >= 1.0.1",
-      "SmartIT.Employee.MockDB >= 1.0.4"
+      "SmartIT.Employee.MockDB >= 1.0.5"
     ]
   },
   "packageFolders": {
@@ -13202,7 +13202,7 @@
           },
           "SmartIT.Employee.MockDB": {
             "target": "Package",
-            "version": "1.0.4"
+            "version": "1.0.5"
           },
           "Microsoft.AspNetCore.All": {
             "target": "Package",

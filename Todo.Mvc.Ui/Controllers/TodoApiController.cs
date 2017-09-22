@@ -2,7 +2,7 @@
 //By John Kocer
 // This file is for Swagger test, this application does not use this file
 using System.Collections.Generic;
-using Microsoft.AspNetCore.Mvc
+using Microsoft.AspNetCore.Mvc;
 using SmartIT.Employee.MockDB; 
 
 namespace TodoAngular.Ui.Controllers
